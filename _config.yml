@@ -1,7 +1,7 @@
 name: Dyroff
 favicon: null
-layout_spectrum: 0.49651
-typography_spectrum: 0.53214
+layout_spectrum: 0.31573032308369875
+typography_spectrum: 0.3266204143874347
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#57728d'
-    - '#31485c'
-    - '#242326'
-    - '#000000'
-    - '#778eae'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
   brandStrength: 0.31260370439849794
   lightness: 0.07651183451525867
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+  saturation: 0.10996236186474562
+  rhythmicContrast: 0.22602400463074446
 purpose: []
