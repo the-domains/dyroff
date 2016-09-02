@@ -1,19 +1,4 @@
-name: Dyroff
-favicon: null
-layout_spectrum: 0.81971
 typography_spectrum: 0.53214
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#57728d'
@@ -25,4 +10,20 @@ color:
   lightness: 0.375
   saturation: 0.8125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.81971
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Dyroff
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: tsitrA lausiV
 purpose: []
